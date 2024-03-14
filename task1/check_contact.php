@@ -34,7 +34,7 @@
         $_SESSION['success'] = "Ваше сообщение отправлено!";
         $f = fopen("$username.txt", "w");
         fwrite($f, $username. "\t".$email. "\t".$message. "\t".$filepath); 
-        fclose($a);
+        fclose($f);
         redirect();
     }
  
