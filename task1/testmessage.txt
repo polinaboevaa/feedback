@@ -1,1 +1,4 @@
-testmessage	polina@mail.ru	i love rotfront	C:\OSPanel\userdata\temp\upload\php50AD.tmp
+testmessage
+ffff@ddd
+omg
+C:/OSPanel/domains/feedback/task1/uploads/cat.jpg
